@@ -1,0 +1,14 @@
+D:\SeeSharpAdvanced\Homework Class01\HomeworkClass01\HomeworkClass01\obj\Debug\net8.0\HomeworkClass01.GeneratedMSBuildEditorConfig.editorconfig
+D:\SeeSharpAdvanced\Homework Class01\HomeworkClass01\HomeworkClass01\obj\Debug\net8.0\HomeworkClass01.AssemblyInfoInputs.cache
+D:\SeeSharpAdvanced\Homework Class01\HomeworkClass01\HomeworkClass01\obj\Debug\net8.0\HomeworkClass01.AssemblyInfo.cs
+D:\SeeSharpAdvanced\Homework Class01\HomeworkClass01\HomeworkClass01\obj\Debug\net8.0\HomeworkClass01.csproj.CoreCompileInputs.cache
+D:\SeeSharpAdvanced\Homework Class01\HomeworkClass01\HomeworkClass01\bin\Debug\net8.0\HomeworkClass01.exe
+D:\SeeSharpAdvanced\Homework Class01\HomeworkClass01\HomeworkClass01\bin\Debug\net8.0\HomeworkClass01.deps.json
+D:\SeeSharpAdvanced\Homework Class01\HomeworkClass01\HomeworkClass01\bin\Debug\net8.0\HomeworkClass01.runtimeconfig.json
+D:\SeeSharpAdvanced\Homework Class01\HomeworkClass01\HomeworkClass01\bin\Debug\net8.0\HomeworkClass01.dll
+D:\SeeSharpAdvanced\Homework Class01\HomeworkClass01\HomeworkClass01\bin\Debug\net8.0\HomeworkClass01.pdb
+D:\SeeSharpAdvanced\Homework Class01\HomeworkClass01\HomeworkClass01\obj\Debug\net8.0\HomeworkClass01.dll
+D:\SeeSharpAdvanced\Homework Class01\HomeworkClass01\HomeworkClass01\obj\Debug\net8.0\refint\HomeworkClass01.dll
+D:\SeeSharpAdvanced\Homework Class01\HomeworkClass01\HomeworkClass01\obj\Debug\net8.0\HomeworkClass01.pdb
+D:\SeeSharpAdvanced\Homework Class01\HomeworkClass01\HomeworkClass01\obj\Debug\net8.0\HomeworkClass01.genruntimeconfig.cache
+D:\SeeSharpAdvanced\Homework Class01\HomeworkClass01\HomeworkClass01\obj\Debug\net8.0\ref\HomeworkClass01.dll
